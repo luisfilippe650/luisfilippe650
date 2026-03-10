@@ -21,11 +21,22 @@ Sou motivado pelo desafio de transformar ideias em aplicações robustas e escal
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=python,java,flask,mysql,docker,linux,git"
+      src="https://go-skill-icons.vercel.app/api/icons?i=python,java"
     />
   </a>
 </p>
 </div>
+
+<div align="center" style="display: inline_block"><br>
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=flask, fastapi, springboot,mysql,docker,linux,git"
+    />
+  </a>
+</p>
+</div>
+
 
 
 <br/>
