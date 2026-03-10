@@ -32,25 +32,3 @@ Sou motivado pelo desafio de transformar ideias em aplicações robustas e escal
 <br/>
 <br/>
 
-### Statistics
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=luisfilippe650&show_icons=true&theme=dark" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfilippe650&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-
-</p>
-
-
