@@ -1,44 +1,69 @@
+# 👨‍💻 Luis Filippe Reis Nogueira
 
-
-#  Luis Filippe Reis Nogueira
-
-**`Developer | Back-End`**
-
-Me chamo Luis Filippe, sou natural de Lorena (SP) e atualmente curso Engenharia da Computação na UNISAL.
-Tenho maior ênfase no desenvolvimento Back-End, trabalhando com a lógica, estruturação e integração de sistemas, o que me permite criar soluções completas e funcionais.
-
-Sou motivado pelo desafio de transformar ideias em aplicações robustas e escaláveis, sempre buscando aprimorar minhas habilidades e explorar novas tecnologias. Compartilho meus aprendizados, projetos e evolução academica no, [LinkedIn](https://www.linkedin.com/in/luis-filippe-reis-nogueira-244111355/) ou até prático, lógica de programação com o [Beecrowd](https://judge.beecrowd.com/pt/profile/1138732).
-
-
-  [![Linkedin](https://go-skill-icons.vercel.app/api/icons?i=linkedin&titles=true)](https://www.linkedin.com/in/luis-filippe-reis-nogueira-244111355/)
+**Back-End Developer**
 
 ---
 
-### Skills
+## 🧠 About Me
 
+I'm Luis Filippe, a Computer Engineering student at **UNISAL**, based in Lorena (SP), Brazil.
 
-<div align="center" style="display: inline_block"><br>
+I specialize in **Back-End development**, focusing on system logic, architecture, and integration. I enjoy building scalable, well-structured applications that solve real-world problems.
+
+Currently, I’m deepening my knowledge in:
+- API development
+- System design
+- Infrastructure & automation
+
+I’m driven by challenges and constantly improving my skills by developing projects and exploring new technologies.
+
+---
+
+## 🔗 Connect with me
+
+[![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/luis-filippe-reis-nogueira-244111355/)
+[![Beecrowd](https://img.shields.io/badge/Beecrowd-Profile-blue?style=for-the-badge)](https://judge.beecrowd.com/pt/profile/1138732)
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
 <p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=python,java"
-    />
-  </a>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,java" />
 </p>
-</div>
 
-<div align="center" style="display: inline_block"><br>
+### ⚙️ Backend & Tools
 <p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=flask,fastapi,docker,mysql,linux,git"
-    />
-  </a>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=flask,fastapi,mysql,docker,linux,git" />
 </p>
-</div>
 
+---
 
+## 📌 Focus Areas
 
-<br/>
-<br/>
+- REST API Development (FastAPI / Flask)
+- Database Modeling (MySQL)
+- Automation & Infrastructure
+- Clean Code & Best Practices
 
+---
+
+## 📈 Currently Learning
+
+- Advanced API architecture
+- Integration with hardware (Arduino + MQTT)
+- Scalable system design
+
+---
+
+## 💡 Projects
+
+I actively build projects to improve my skills and apply real-world concepts.  
+Check out my repositories to see my evolution and practical experience.
+
+---
+
+## ⚡ Mindset
+
+> "Turning ideas into scalable and reliable systems."
