@@ -1,69 +1,91 @@
-# 👨‍💻 Luis Filippe Reis Nogueira
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Luis+Filippe+Reis+Nogueira;Back-End+Developer;Computer+Engineering+%40+UNISAL" alt="Typing SVG" />
+</h1>
 
-**Back-End Developer**
-
----
-
-## 🧠 About Me
-
-I'm Luis Filippe, a Computer Engineering student at **UNISAL**, based in Lorena (SP), Brazil.
-
-I specialize in **Back-End development**, focusing on system logic, architecture, and integration. I enjoy building scalable, well-structured applications that solve real-world problems.
-
-Currently, I’m deepening my knowledge in:
-- API development
-- System design
-- Infrastructure & automation
-
-I’m driven by challenges and constantly improving my skills by developing projects and exploring new technologies.
-
----
-
-## 🔗 Connect with me
-
-[![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/luis-filippe-reis-nogueira-244111355/)
-[![Beecrowd](https://img.shields.io/badge/Beecrowd-Profile-blue?style=for-the-badge)](https://judge.beecrowd.com/pt/profile/1138732)
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,java" />
+  <em>Turning ideas into scalable and reliable systems.</em>
 </p>
 
-### ⚙️ Backend & Tools
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=flask,fastapi,mysql,docker,linux,git" />
+  <a href="https://www.linkedin.com/in/luis-filippe-reis-nogueira-244111355/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://judge.beecrowd.com/pt/profile/1138732">
+    <img src="https://img.shields.io/badge/BEECROWD-Profile-1E90FF?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/luisfilippe650">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 📌 Focus Areas
+## 👨‍💻 About Me
 
-- REST API Development (FastAPI / Flask)
-- Database Modeling (MySQL)
-- Automation & Infrastructure
-- Clean Code & Best Practices
+Sou estudante de **Engenharia da Computação** na **UNISAL**, Lorena (SP).
 
----
+Especializado em **Back-End development**, com foco em lógica de sistemas, arquitetura e integração. Gosto de construir aplicações escaláveis e bem estruturadas que resolvem problemas reais.
 
-## 📈 Currently Learning
+Atualmente explorando:
+🐍 Python &nbsp;|&nbsp; ⚡ FastAPI &nbsp;|&nbsp; 🐬 MySQL &nbsp;|&nbsp; 🐳 Docker &nbsp;|&nbsp; 🔧 Linux
 
-- Advanced API architecture
-- Integration with hardware (Arduino + MQTT)
-- Scalable system design
+🔁 Background técnico: Desenvolvimento de sistemas com foco em automação e infraestrutura.
+
+💡 Buscando aplicar **APIs modernas e IoT** para resolver desafios reais de engenharia.
 
 ---
 
-## 💡 Projects
+## 🛠️ Linguagens e Tecnologias
 
-I actively build projects to improve my skills and apply real-world concepts.  
-Check out my repositories to see my evolution and practical experience.
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,fastapi,flask,mysql,docker,linux,git,vscode" />
+</p>
 
 ---
 
-## ⚡ Mindset
+## 📌 Áreas de Foco
 
-> "Turning ideas into scalable and reliable systems."
+```text
+🔌  REST API Development       FastAPI / Flask
+🗄️  Database Modeling          MySQL / Relational Design
+🤖  Automation & IoT           Arduino + MQTT
+🏗️  System Architecture        Clean Code / Scalability
+🐳  Infrastructure             Docker / Linux
+```
+
+---
+
+## 📈 Atualmente Aprendendo
+
+- Arquitetura avançada de APIs REST
+- Integração com hardware (Arduino + MQTT)
+- Design de sistemas escaláveis
+- Gerenciamento de infraestrutura física (RackTables)
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=luisfilippe650&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfilippe650&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisfilippe650&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🗄️ [RackTables REST API](https://github.com/luisfilippe650/racktables-rest-api)
+> REST API moderna sobre o banco de dados legado do RackTables para gerenciamento de infraestrutura física de datacenter.
+
+`Python` `FastAPI` `MySQL` `Docker` — `v0.1 Testing`
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=luisfilippe650&label=Profile+Views&color=58A6FF&style=flat" />
+</p>
