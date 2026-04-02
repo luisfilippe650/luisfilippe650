@@ -38,7 +38,7 @@ Atualmente explorando:
 ## 🛠️ Linguagens e Tecnologias
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,fastapi,flask,mysql,docker,linux,git,vscode" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,spring,fastapi,flask,mysql,docker,linux,git,vscode" />
 </p>
 
 ---
