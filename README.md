@@ -1,20 +1,95 @@
-<h1 align="center">Olá 👋, sou Luis Filippe Reis Nogueira</h1>
-<h3 align="center">Um desenvolvedor frontend apaixonado da Índia</h3>
+<div align="center">
 
-- 🌱 Atualmente estou aprendendo **Engenharia da computação**
+# Hi 👋, I'm [Your Name]
 
-- 💬 Pergunte-me sobre **Especializado em **Desenvolvimento Back-End**, com foco em lógica de sistemas, arquitetura e integração. Gosto de construir aplicações escaláveis e bem estruturadas que resolvem problemas reais.**
+### A passionate developer from [Your Location]
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="esquerda">
-<a href="https://linkedin.com/in/www.linkedin.com/in/luis-filippe-reis-nogueira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/luis-filippe-reis-nogueira" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Idiomas e ferramentas:</h3>
-<p align="esquerda"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" largura="40" altura="40"/> </um> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" largura="40" altura="40"/> </um> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zona/logos/git-scm/git-scm-icon.svg" alt="git" largura="40" altura="40"/> </um> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" largura="40" altura="40"/> </um> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" largura="40" altura="40"/> </um> <a href="https://www.mysql.com/"target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" largura="40" altura="40"/> </um> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" largura="40" altura="40"/> </um> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"alt="python" largura="40" altura="40"/> </um> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="primavera" largura="40" altura="40"/> </um> </p>
+## 🚀 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisfilippe650&show_icons=true&locale=en&layout=compact" alt="luisfilippe650" /></p>
+Sou desenvolvedor focado em back-end e integração de sistemas, com experiência prática em construção de APIs, manipulação direta de banco de dados e implementação de regras de negócio complexas. Atualmente desenvolvendo soluções voltadas à automação e integração entre software e hardware, com foco em projetos reais e escaláveis.
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=luisfilippe650&show_icons=true&locale=en" alt="luisfilippe650" /></p>
+## 🎓 Education
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luisfilippe650&" alt="luisfilippe650" /></p>
+| Institution | Degree | Duration |
+|---|---|---|
+| Centro Universitário Salesiano de São Paulo - UNISAL | bacharelado |  -  |
+
+### bacharelado in Engenharia da computação
+*Centro Universitário Salesiano de São Paulo - UNISAL*
+
+Formação em engenharia da computação pela UNISAL, com foco em full stack, incluindo back-end (Python, Java, C), front-end (HTML, CSS, JavaScript), bancos de dados (SQL/NoSQL) e fundamentos de Machine Learning e IA. Experiência também em UI/UX e IHC, com desenvolvimento de soluções práticas e orientadas a projetos.
+
+## 💼 Internships
+
+| Company | Position | Duration |
+|---|---|---|
+| Instituto Nacional De Pesquisas Espaciais ( INPE )  | Estagiário em Infraestrutura e Automação de Sistemas |  -  |
+
+### Estagiário em Infraestrutura e Automação de Sistemas at Instituto Nacional De Pesquisas Espaciais ( INPE ) 
+
+Atuação no desenvolvimento de soluções de automação e integração de sistemas para infraestrutura de datacenter, contribuindo para otimização de processos operacionais e gerenciamento de ativos.
+
+Principais responsabilidades
+
+Desenvolvimento de APIs REST em Python utilizando FastAPI para automação e integração entre sistemas de infraestrutura.
+
+Integração de aplicações com bancos de dados MySQL
+
+Desenvolvimento de ferramentas para gestão e rastreamento de servidores em racks de datacenter.
+
+Apoio na organização e controle de infraestrutura física de servidores e equipamentos de rede.
+
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luisfilippe650)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/www.linkedin.com/in/luis-filippe-reis-nogueira)
+
+</div>
+
+## 🛠️ Skills & Technologies
+
+### 💻 Programming Languages
+
+<img src="https://cdn.simpleicons.org/java/007396?size=32" alt="Java"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/python/3776AB?size=32" alt="Python"  />
+
+### 💻 Backend Development
+
+<img src="https://cdn.simpleicons.org/spring/6DB33F?size=32" alt="Spring"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/nginx/269539?size=32" alt="Nginx"  />
+
+### 💻 Database
+
+<img src="https://cdn.simpleicons.org/mysql/4479A1?size=32" alt="MySQL"  />
+
+### 💻 DevOps
+
+<img src="https://cdn.simpleicons.org/docker/2496ED?size=32" alt="Docker"  />
+
+### 💻 Other
+
+<img src="https://cdn.simpleicons.org/linux/FCC624?size=32" alt="Linux"  />
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luisfilippe650&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisfilippe650&layout=compact&theme=dark&langs_count=10)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+**Thank you for visiting my profile! 😊**
+
+![Profile Views](https://komarev.com/ghpvc/?username=luisfilippe650&color=brightgreen&style=flat-square&label=Profile+Views)
+
+</div>
