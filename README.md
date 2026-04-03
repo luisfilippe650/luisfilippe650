@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Luis+Filippe+Reis+Nogueira;Back-End+Developer;Computer+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Luis+Filippe+Reis+Nogueira;Back-End+Developer;Computer+Engineering+%40+UNISAL" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <em>Turning ideas into scalable and reliable systems.</em>
+  <em>"Turning ideas into scalable and reliable systems."</em>
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://judge.beecrowd.com/pt/profile/1138732">
-    <img src="https://img.shields.io/badge/BEECROWD-Profile-1E90FF?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/BEECROWD-1E90FF?style=for-the-badge&label=BEECROWD" />
   </a>
   <a href="https://github.com/luisfilippe650">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -22,54 +22,69 @@
 
 ## 👨‍💻 About Me
 
-Sou estudante de **Engenharia da Computação** na **UNISAL**, Lorena (SP).
+Sou estudante de **Engenharia da Computação** na **UNISAL**, Lorena (SP), com foco em **Back-End development** — lógica de sistemas, arquitetura de APIs e integração entre serviços.
 
-Especializado em **Back-End development**, com foco em lógica de sistemas, arquitetura e integração. Gosto de construir aplicações escaláveis e bem estruturadas que resolvem problemas reais.
+Tenho experiência prática com automação de infraestrutura e desenvolvimento de APIs REST, adquirida durante estágio no **INPE**, onde trabalhei diretamente com ambientes de datacenter.
 
-🔁 Background técnico: Desenvolvimento de sistemas com foco em automação e infraestrutura.
+Atualmente aprofundando conhecimentos em:
 
-💡 Buscando criar **APIs Rest FULL e Arquiteturas Limpas** para resolver desafios reais de engenharia.
-Atualmente explorando:
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,python,spring,fastapi,mysql,docker,linux,ngix,)
----
-## 🎓 Education
+- Arquitetura de APIs REST e Clean Architecture
+- Integração com hardware e IoT (Arduino + MQTT)
+- Gerenciamento de infraestrutura física (RackTables)
 
-| Institution |
-|---|
-| Centro Universitário Salesiano de São Paulo - UNISAL | bacharelado |  -  |
-
-### bacharelado in Engenharia da computação
-*Centro Universitário Salesiano de São Paulo - UNISAL*
-
-Formação em engenharia da computação pela UNISAL, com foco em full stack, incluindo back-end (Python, Java, C), front-end (HTML, CSS, JavaScript), bancos de dados (SQL/NoSQL) e fundamentos de Machine Learning e IA. Experiência também em UI/UX e IHC, com desenvolvimento de soluções práticas e orientadas a projetos.
-
-## 💼 Internships
-| Company |
-|---|
-| Instituto Nacional De Pesquisas Espaciais ( INPE )  | Estagiário em Infraestrutura e Automação de Sistemas |  -  |
-
-### Estagiário em Infraestrutura e Automação de Sistemas
-
-Atuação no desenvolvimento de soluções de automação e integração de sistemas para infraestrutura de datacenter, contribuindo para otimização de processos operacionais e gerenciamento de ativos.
-
-Principais responsabilidades
-
-Desenvolvimento de APIs REST em Python utilizando FastAPI para automação e integração entre sistemas de infraestrutura.
-
-Integração de aplicações com bancos de dados MySQL
-
-Desenvolvimento de ferramentas para gestão e rastreamento de servidores em racks de datacenter.
-
-Apoio na organização e controle de infraestrutura física de servidores e equipamentos de rede.
-
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,python,spring,fastapi,mysql,docker,linux,nginx" />
+</p>
 
 ---
 
-### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
+## 🎓 Formação
 
-**Thank you for visiting my profile! 😊**
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+**Bacharelado em Engenharia da Computação**
+*Centro Universitário Salesiano de São Paulo — UNISAL*
 
-![Profile Views](https://komarev.com/ghpvc/?username=luisfilippe650&color=brightgreen&style=flat-square&label=Profile+Views)
+Formação com base sólida em desenvolvimento full stack, com ênfase em back-end (Python, Java, C), bancos de dados (SQL/NoSQL), fundamentos de Machine Learning e IA, além de UI/UX e IHC. Desenvolvimento orientado a projetos práticos com aplicação real.
 
-</div>
+---
+
+## 💼 Experiência
+
+**Estagiário em Infraestrutura e Automação de Sistemas**
+*Instituto Nacional de Pesquisas Espaciais — INPE*
+
+Atuação no desenvolvimento de soluções de automação e integração para infraestrutura de datacenter, contribuindo para otimização de processos operacionais e controle de ativos físicos.
+
+Principais atividades:
+
+- Desenvolvimento de APIs REST em Python com **FastAPI** para automação e integração entre sistemas de infraestrutura
+- Integração de aplicações com bancos de dados **MySQL**
+- Criação de ferramentas para gestão e rastreamento de servidores em racks de datacenter
+- Apoio na organização e controle de infraestrutura física de servidores e equipamentos de rede
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🗄️ [RackTables REST API](https://github.com/luisfilippe650/racktables-rest-api)
+> API REST moderna construída sobre o banco de dados legado do RackTables, com validação de regras de negócio, transações seguras e auditoria completa para gerenciamento de infraestrutura física de datacenter.
+
+`Python` `FastAPI` `MySQL` `Docker`
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=luisfilippe650&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfilippe650&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisfilippe650&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=luisfilippe650&color=58A6FF&style=flat-square&label=Profile+Views" />
+</p>
