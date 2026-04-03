@@ -73,4 +73,23 @@ Principais atividades:
 ---
 
 ## 📊 Estatísticas
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisfilippe650)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/luisfilippe650">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=luisfilippe650&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br" />
+  </a>
+  <a href="https://github.com/luisfilippe650">
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfilippe650&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=luisfilippe650&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=luisfilippe650&color=58A6FF&style=flat-square&label=Profile+Views" />
+</p>
