@@ -80,7 +80,3 @@ Principais atividades:
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=luisfilippe650&color=58A6FF&style=flat-square&label=Profile+Views" />
-</p>
