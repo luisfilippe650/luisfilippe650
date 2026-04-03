@@ -44,6 +44,9 @@ Sou desenvolvedor focado em back-end e integração de sistemas, com experiênci
 Formação em engenharia da computação pela UNISAL, com foco em full stack, incluindo back-end (Python, Java, C), front-end (HTML, CSS, JavaScript), bancos de dados (SQL/NoSQL) e fundamentos de Machine Learning e IA. Experiência também em UI/UX e IHC, com desenvolvimento de soluções práticas e orientadas a projetos.
 
 ## 💼 Internships
+| Company |
+|---|
+| Instituto Nacional De Pesquisas Espaciais ( INPE )  | Estagiário em Infraestrutura e Automação de Sistemas |  -  |
 
 ### Estagiário em Infraestrutura e Automação de Sistemas at Instituto Nacional De Pesquisas Espaciais ( INPE ) 
 
