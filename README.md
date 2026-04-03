@@ -45,9 +45,6 @@ Formação em engenharia da computação pela UNISAL, com foco em full stack, in
 
 ## 💼 Internships
 
-| Company |
-| Instituto Nacional De Pesquisas Espaciais ( INPE )  | Estagiário em Infraestrutura e Automação de Sistemas |  -  |
-
 ### Estagiário em Infraestrutura e Automação de Sistemas at Instituto Nacional De Pesquisas Espaciais ( INPE ) 
 
 Atuação no desenvolvimento de soluções de automação e integração de sistemas para infraestrutura de datacenter, contribuindo para otimização de processos operacionais e gerenciamento de ativos.
@@ -64,64 +61,6 @@ Apoio na organização e controle de infraestrutura física de servidores e equi
 
 
 ---
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=luisfilippe650&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfilippe650&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisfilippe650&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-
-## 🌐 Connect with Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luisfilippe650)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/www.linkedin.com/in/luis-filippe-reis-nogueira)
-
-</div>
-
-## 🛠️ Skills & Technologies
-
-### 💻 Programming Languages
-
-<img src="https://cdn.simpleicons.org/java/007396?size=32" alt="Java"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/python/3776AB?size=32" alt="Python"  />
-
-### 💻 Backend Development
-
-<img src="https://cdn.simpleicons.org/spring/6DB33F?size=32" alt="Spring"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/nginx/269539?size=32" alt="Nginx"  />
-
-### 💻 Database
-
-<img src="https://cdn.simpleicons.org/mysql/4479A1?size=32" alt="MySQL"  />
-
-### 💻 DevOps
-
-<img src="https://cdn.simpleicons.org/docker/2496ED?size=32" alt="Docker"  />
-
-### 💻 Other
-
-<img src="https://cdn.simpleicons.org/linux/FCC624?size=32" alt="Linux"  />
-
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luisfilippe650&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisfilippe650&layout=compact&theme=dark&langs_count=10)
-
-</div>
-
----
-
-<div align="center">
 
 ### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
