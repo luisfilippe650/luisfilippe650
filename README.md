@@ -31,7 +31,7 @@ Atualmente aprofundando conhecimentos em:
 
 - Arquitetura de APIs REST e Clean Architecture
 
-- 
+ 
   
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=java,python,spring,fastapi,mysql,docker,linux,nginx" />
