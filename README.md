@@ -19,19 +19,21 @@
 </p>
 
 ---
-## 🚀 About Me
 
-Sou desenvolvedor focado em back-end e integração de sistemas, com experiência prática em construção de APIs, manipulação direta de banco de dados e implementação de regras de negócio complexas. Atualmente desenvolvendo soluções voltadas à automação e integração entre software e hardware, com foco em projetos reais e escaláveis.
+## 👨‍💻 About Me
+
+Sou estudante de **Engenharia da Computação** na **UNISAL**, Lorena (SP).
+
+Especializado em **Back-End development**, com foco em lógica de sistemas, arquitetura e integração. Gosto de construir aplicações escaláveis e bem estruturadas que resolvem problemas reais.
+
+Atualmente explorando:
+🐍 Python &nbsp;|&nbsp; ⚡ FastAPI &nbsp;|&nbsp; 🐬 MySQL &nbsp;|&nbsp; 🐳 Docker &nbsp;|&nbsp; 🔧 Linux
+
+🔁 Background técnico: Desenvolvimento de sistemas com foco em automação e infraestrutura.
+
+💡 Buscando aplicar **APIs modernas e IoT** para resolver desafios reais de engenharia.
+
 ---
-
-## 🛠️ Linguagens e Tecnologias
-
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,fastapi,flask,mysql,docker,linux,git,vscode" />
-</p>
-
----
-
 ## 🎓 Education
 
 | Institution |
