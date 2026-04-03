@@ -26,12 +26,11 @@ Sou estudante de **Engenharia da Computação** na **UNISAL**, Lorena (SP).
 
 Especializado em **Back-End development**, com foco em lógica de sistemas, arquitetura e integração. Gosto de construir aplicações escaláveis e bem estruturadas que resolvem problemas reais.
 
-Atualmente explorando:
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,python,spring,fastapi,mysql,docker,linux,ngix,)
 🔁 Background técnico: Desenvolvimento de sistemas com foco em automação e infraestrutura.
 
-💡 Buscando aplicar **APIs modernas e IoT** para resolver desafios reais de engenharia.
-
+💡 Buscando criar **APIs Rest FULL e Arquiteturas Limpas** para resolver desafios reais de engenharia.
+Atualmente explorando:
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,python,spring,fastapi,mysql,docker,linux,ngix,)
 ---
 ## 🎓 Education
 
