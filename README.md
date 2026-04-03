@@ -48,7 +48,7 @@ Formação em engenharia da computação pela UNISAL, com foco em full stack, in
 |---|
 | Instituto Nacional De Pesquisas Espaciais ( INPE )  | Estagiário em Infraestrutura e Automação de Sistemas |  -  |
 
-### Estagiário em Infraestrutura e Automação de Sistemas at Instituto Nacional De Pesquisas Espaciais ( INPE ) 
+### Estagiário em Infraestrutura e Automação de Sistemas
 
 Atuação no desenvolvimento de soluções de automação e integração de sistemas para infraestrutura de datacenter, contribuindo para otimização de processos operacionais e gerenciamento de ativos.
 
