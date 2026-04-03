@@ -75,9 +75,6 @@ Principais atividades:
 ## 📊 Estatísticas
 <p align="center">
   <a href="https://github.com/luisfilippe650">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=luisfilippe650&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br" />
-  </a>
-  <a href="https://github.com/luisfilippe650">
     <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfilippe650&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
   </a>
 </p>
