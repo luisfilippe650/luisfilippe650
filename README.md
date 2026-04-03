@@ -1,11 +1,24 @@
-<div align="center">
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Luis+Filippe+Reis+Nogueira;Back-End+Developer;Computer+Engineering+%40+UNISAL" alt="Typing SVG" />
+</h1>
 
-# Hi 👋, I'm [Your Name]
+<p align="center">
+  <em>Turning ideas into scalable and reliable systems.</em>
+</p>
 
-### A passionate developer from [Your Location]
+<p align="center">
+  <a href="https://www.linkedin.com/in/luis-filippe-reis-nogueira-244111355/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://judge.beecrowd.com/pt/profile/1138732">
+    <img src="https://img.shields.io/badge/BEECROWD-Profile-1E90FF?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/luisfilippe650">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-</div>
-
+---
 ## 🚀 About Me
 
 Sou desenvolvedor focado em back-end e integração de sistemas, com experiência prática em construção de APIs, manipulação direta de banco de dados e implementação de regras de negócio complexas. Atualmente desenvolvendo soluções voltadas à automação e integração entre software e hardware, com foco em projetos reais e escaláveis.
