@@ -24,7 +24,7 @@
 
 Sou estudante de **Engenharia da Computação** na **UNISAL**, Lorena (SP), com foco em **Back-End development** — lógica de sistemas, arquitetura de APIs e integração entre serviços.
 
-Tenho experiência prática com automação de infraestrutura e desenvolvimento de APIs REST, adquirida durante estágio no **INPE**, onde trabalhei diretamente com ambientes de datacenter.
+Tenho experiência prática com automação de infraestrutura e desenvolvimento de APIs REST, adquirida durante estágio no **INPE**, onde trabalho diretamente com ambientes de datacenter.
 
 Atualmente aprofundando conhecimentos em:
 
@@ -43,7 +43,7 @@ Atualmente aprofundando conhecimentos em:
 **Bacharelado em Engenharia da Computação**
 *Centro Universitário Salesiano de São Paulo — UNISAL*
 
-Formação com base sólida em desenvolvimento full stack, com ênfase em back-end (Python, Java, C), bancos de dados (SQL/NoSQL), fundamentos de Machine Learning e IA, além de UI/UX e IHC. Desenvolvimento orientado a projetos práticos com aplicação real.
+Formação com base sólida em desenvolvimento full stack, com ênfase em back-end, bancos de dados, fundamentos de Machine Learning e IA, além de UI/UX e IHC. Desenvolvimento orientado a projetos práticos com aplicação real.
 
 ---
 
