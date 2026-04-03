@@ -68,6 +68,17 @@ Apoio na organização e controle de infraestrutura física de servidores e equi
 ### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
 **Thank you for visiting my profile! 😊**
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=luisfilippe650&color=brightgreen&style=flat-square&label=Profile+Views)
 
