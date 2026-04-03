@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Luis+Filippe+Reis+Nogueira;Back-End+Developer;Computer+Engineering+%40+UNISAL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Luis+Filippe+Reis+Nogueira;Back-End+Developer;Computer+Engineering" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -73,24 +73,4 @@ Principais atividades:
 ---
 
 ## 📊 Estatísticas
-
-<p align="center">
-  <a href="https://github.com/luisfilippe650">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=luisfilippe650&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br" />
-  </a>
-  <a href="https://github.com/luisfilippe650">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfilippe650&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=luisfilippe650&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=luisfilippe650&color=58A6FF&style=flat-square&label=Profile+Views" />
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisfilippe650)](https://github.com/anuraghazra/github-readme-stats)
