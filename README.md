@@ -30,9 +30,7 @@ Tenho experiência prática com automação de infraestrutura e desenvolvimento 
 Atualmente aprofundando conhecimentos em:
 
 - Arquitetura de APIs REST e Clean Architecture
-- Integração com hardware e IoT (Arduino + MQTT)
-- Gerenciamento de infraestrutura física (RackTables)
-
+  
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=java,python,spring,fastapi,mysql,docker,linux,nginx" />
 </p>
