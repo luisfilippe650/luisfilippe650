@@ -1,6 +1,5 @@
-<p align="center">
+
 #Luis Filippe Reis Nogueira
-</p>
 
 **`Back-end | Developer`**
 
