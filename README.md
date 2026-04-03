@@ -22,11 +22,20 @@
 ## 🚀 About Me
 
 Sou desenvolvedor focado em back-end e integração de sistemas, com experiência prática em construção de APIs, manipulação direta de banco de dados e implementação de regras de negócio complexas. Atualmente desenvolvendo soluções voltadas à automação e integração entre software e hardware, com foco em projetos reais e escaláveis.
+---
+
+## 🛠️ Linguagens e Tecnologias
+
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,fastapi,flask,mysql,docker,linux,git,vscode" />
+</p>
+
+---
 
 ## 🎓 Education
 
-| Institution | Degree | Duration |
-|---|---|---|
+| Institution |
+|---|
 | Centro Universitário Salesiano de São Paulo - UNISAL | bacharelado |  -  |
 
 ### bacharelado in Engenharia da computação
@@ -36,8 +45,7 @@ Formação em engenharia da computação pela UNISAL, com foco em full stack, in
 
 ## 💼 Internships
 
-| Company | Position | Duration |
-|---|---|---|
+| Company |
 | Instituto Nacional De Pesquisas Espaciais ( INPE )  | Estagiário em Infraestrutura e Automação de Sistemas |  -  |
 
 ### Estagiário em Infraestrutura e Automação de Sistemas at Instituto Nacional De Pesquisas Espaciais ( INPE ) 
@@ -53,6 +61,22 @@ Integração de aplicações com bancos de dados MySQL
 Desenvolvimento de ferramentas para gestão e rastreamento de servidores em racks de datacenter.
 
 Apoio na organização e controle de infraestrutura física de servidores e equipamentos de rede.
+
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=luisfilippe650&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfilippe650&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisfilippe650&theme=tokyonight&hide_border=true" />
+</p>
+
+---
 
 
 ## 🌐 Connect with Me
