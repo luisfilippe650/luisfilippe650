@@ -1,4 +1,3 @@
-
 # Luis Filippe Reis Nogueira
 
 **`Back-end | Developer`**
@@ -23,56 +22,57 @@
 
 ## 👨‍💻 About Me
 
-Sou estudante de **Engenharia da Computação** na **UNISAL**, Lorena (SP), com foco em **Back-End development** — lógica de sistemas, arquitetura de APIs e integração entre serviços.
+I am a **Computer Engineering** student at **UNISAL**, Lorena (SP), focused on **Back-End development** — system logic, API architecture, and service integration.
 
-Tenho experiência prática com automação de infraestrutura e desenvolvimento de APIs REST, adquirida durante estágio no **INPE**, onde trabalho diretamente com ambientes de datacenter.
+I have practical experience with infrastructure automation and REST API development, gained during my internship at **INPE**, where I work directly with datacenter environments.
 
-Atualmente aprofundando conhecimentos em:
+Currently deepening my knowledge in:
 
-- Arquitetura de APIs REST e Clean Architecture
+- REST API Architecture and Clean Architecture
+
 ---
-  
+
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=java,python,spring,fastapi,mysql,docker,linux,nginx" />
 </p>
 
 ---
 
-## 🎓 Formação
+## 🎓 Education
 
-**Bacharelado em Engenharia da Computação**
+**Bachelor’s Degree in Computer Engineering**  
 *Centro Universitário Salesiano de São Paulo — UNISAL*
 
-Formação com base sólida em desenvolvimento full stack, com ênfase em back-end, bancos de dados, fundamentos de Machine Learning e IA, além de UI/UX e IHC. Desenvolvimento orientado a projetos práticos com aplicação real.
+Education with a strong foundation in full stack development, with emphasis on back-end, databases, fundamentals of Machine Learning and AI, as well as UI/UX and HCI. Development oriented toward practical projects with real-world application.
 
 ---
 
-## 💼 Experiência
+## 💼 Experience
 
-**Estagiário em Infraestrutura e Automação de Sistemas**
-*Instituto Nacional de Pesquisas Espaciais — INPE*
+**Intern in Infrastructure and Systems Automation**  
+*National Institute for Space Research — INPE*
 
-Atuação no desenvolvimento de soluções de automação e integração para infraestrutura de datacenter, contribuindo para otimização de processos operacionais e controle de ativos físicos.
+Working on the development of automation and integration solutions for datacenter infrastructure, contributing to the optimization of operational processes and control of physical assets.
 
-Principais atividades:
+Main activities:
 
-- Desenvolvimento de APIs REST em Python com **FastAPI** para automação e integração entre sistemas de infraestrutura
-- Integração de aplicações com bancos de dados **MySQL**
-- Criação de ferramentas para gestão e rastreamento de servidores em racks de datacenter
-- Apoio na organização e controle de infraestrutura física de servidores e equipamentos de rede
+- Development of REST APIs in Python with **FastAPI** for automation and integration between infrastructure systems  
+- Integration of applications with **MySQL** databases  
+- Creation of tools for management and tracking of servers in datacenter racks  
+- Support in organizing and controlling physical infrastructure of servers and network equipment  
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Featured Projects
 
 ### 🗄️ [RackTables REST API](https://github.com/luisfilippe650/racktables-rest-api)
-> API REST moderna construída sobre o banco de dados legado do RackTables, com validação de regras de negócio, transações seguras e auditoria completa para gerenciamento de infraestrutura física de datacenter.
+> Modern REST API built on top of the legacy RackTables database, with business rule validation, secure transactions, and full auditing for physical datacenter infrastructure management.
 
 `Python` `FastAPI` `MySQL` `Docker`
 
 ---
 
-## 📊 Estatísticas
+## 📊 Statistics
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=luisfilippe650&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" />
