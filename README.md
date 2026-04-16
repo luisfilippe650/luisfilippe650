@@ -33,7 +33,7 @@ Currently deepening my knowledge in:
 ---
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,python,spring,fastapi,mysql,docker,linux,nginx" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,python,javascript,spring,fastapi,nodejs,mysql,docker,linux,nginx" />
 </p>
 
 ---
