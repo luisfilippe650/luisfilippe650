@@ -63,15 +63,6 @@ Main activities:
 
 ---
 
-## 🚀 Featured Projects
-
-### 🗄️ [RackTables REST API](https://github.com/luisfilippe650/racktables-rest-api)
-> Modern REST API built on top of the legacy RackTables database, with business rule validation, secure transactions, and full auditing for physical datacenter infrastructure management.
-
-`Python` `FastAPI` `MySQL` `Docker`
-
----
-
 ## 📊 Statistics
 <p align="center">
   <a href="https://git.io/streak-stats">
