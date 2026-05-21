@@ -7,17 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/luis-filippe-reis-nogueira-244111355/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
-  <a href="https://judge.beecrowd.com/pt/profile/1138732">
-    <img src="https://img.shields.io/badge/BEECROWD-5A2D82?style=for-the-badge" />
-  </a>
-  
-  <a href="https://leetcode.com/u/luisfilippe45/">
-    <img src="https://img.shields.io/badge/LEETCODE-111111?style=for-the-badge&logo=leetcode&logoColor=FFE135" />
-  </a>
+  <a href="https://www.linkedin.com/in/luis-filippe-reis-nogueira-244111355/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://github.com/luisfilippe650"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a><a href="https://judge.beecrowd.com/pt/profile/1138732"><img src="https://img.shields.io/badge/BEECROWD-5A2D82?style=for-the-badge" /></a><a href="https://leetcode.com/u/luisfilippe45/"><img src="https://img.shields.io/badge/LEETCODE-111111?style=for-the-badge&logo=leetcode&logoColor=FFE135" /></a>
 </p>
 
 ---
