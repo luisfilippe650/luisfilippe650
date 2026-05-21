@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://judge.beecrowd.com/pt/profile/1138732">
-    <img src="https://img.shields.io/badge/BEECROWD-1E90FF?style=for-the-badge&label=BEECROWD" />
+    <img src="https://img.shields.io/badge/BEECROWD-1E90FF?style=for-the-badge" />
   </a>
   <a href="https://github.com/luisfilippe650">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
