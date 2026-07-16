@@ -25,7 +25,7 @@ Currently deepening my knowledge in:
 ---
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript,python,bash,nodejs,express,fastapi,mysql,docker,linux,consul" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript,python,bash,nodejs,apirest,fastapi,mysql,docker,linux,react,react-native" />
 </p>
 
 ---
