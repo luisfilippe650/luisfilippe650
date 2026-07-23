@@ -1,65 +1,45 @@
 # Luis Filippe Reis Nogueira
 
-**`Back-end | Developer`**
+**Backend Developer | Python • TypeScript • Java**
 
 <p align="center">
   <em>"Turning ideas into scalable and reliable systems."</em>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/luis-filippe-reis-nogueira-244111355/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://judge.beecrowd.com/pt/profile/1138732"><img src="https://img.shields.io/badge/BEECROWD-5A2D82?style=for-the-badge" /></a><a href="https://leetcode.com/u/luisfilippe45/"><img src="https://img.shields.io/badge/LEETCODE-111111?style=for-the-badge&logo=leetcode&logoColor=FFE135" /></a>
-</p>
-
----
-
-## 👨‍💻 About Me
-
-I am a **Computer Engineering** student at **UNISAL**, Lorena (SP), focused on **Back-End development** — system logic, API architecture, and service integration.
-
-I have practical experience with infrastructure automation and REST API development, gained during my internship at **INPE**, where I work directly with datacenter environments.
-
-Currently deepening my knowledge in:
-
-- REST API Architecture and Clean Architecture
-
----
-
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,typescript,python,bash,nodejs,react,mysql,docker,linux,api" />
-</p>
-
----
-
-## 🎓 Education
-
-**Bachelor’s Degree in Computer Engineering**  
-*Centro Universitário Salesiano de São Paulo — UNISAL*
-
-Education with a strong foundation in full stack development, with emphasis on back-end, databases, fundamentals of Machine Learning and AI, as well as UI/UX and HCI. Development oriented toward practical projects with real-world application.
-
----
-
-## 💼 Experience
-
-**Intern in Infrastructure and Systems Automation**  
-*National Institute for Space Research — INPE*
-
-Working on the development of automation and integration solutions for datacenter infrastructure, contributing to the optimization of operational processes and control of physical assets.
-
-Main activities:
-
-- Development of REST APIs in Python with **FastAPI** for automation and integration between infrastructure systems  
-- Integration of applications with **MySQL** databases  
-- Creation of tools for management and tracking of servers in datacenter racks  
-- Support in organizing and controlling physical infrastructure of servers and network equipment  
-
----
-
-## 📊 Statistics
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=luisfilippe650&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" />
+  <a href="https://www.linkedin.com/in/luis-filippe-reis-nogueira-244111355/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://judge.beecrowd.com/pt/profile/1138732">
+    <img src="https://img.shields.io/badge/Beecrowd-5A2D82?style=for-the-badge"/>
+  </a>
+  <a href="https://leetcode.com/u/luisfilippe45/">
+    <img src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=FFE135"/>
   </a>
 </p>
 
 ---
+
+## 👋 About Me
+
+Computer Engineering student at **UNISAL** and **Software Development & Infrastructure Intern** at **INPE (COIDS)**.
+
+I develop backend solutions focused on **REST APIs**, **systems integration**, **infrastructure automation**, and **datacenter management**.
+
+Currently studying software architecture, backend development, and scalable systems while building open-source projects.
+
+---
+
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,typescript,javascript,nodejs,java,fastapi,react,mysql,docker,linux,bash,git" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=luisfilippe650&theme=tokyonight&hide_border=true&locale=en" />
+  </a>
+</p>
