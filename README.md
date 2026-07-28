@@ -36,8 +36,6 @@ Currently studying software architecture, backend development, and scalable syst
 
 ---
 
-##  GitHub Stats
-
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=luisfilippe650&theme=tokyonight&hide_border=true&locale=en" />
