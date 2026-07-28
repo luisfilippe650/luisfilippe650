@@ -36,7 +36,7 @@ Currently studying software architecture, backend development, and scalable syst
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <a href="https://git.io/streak-stats">
