@@ -30,13 +30,26 @@ Currently studying software architecture, backend development, and scalable syst
 
 ---
 
+## 🛠️ Technologies
+
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=python,typescript,java,nodejs,react,mysql,postgresql,docker,linux,bash,git" />
 </p>
 
 ---
 
+## 📊 GitHub Stats
+
 <p align="center">
-![Luis GitHub Stats](https://github-stats-extended.vercel.app/api?username=luisfilippe650&show_icons=true)
-  </a>
+  <img
+    height="180em"
+    src="https://github-stats-extended.vercel.app/api?username=luisfilippe650&show_icons=true&theme=github_dark&hide_border=true"
+  />
+</p>
+
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=luisfilippe650&layout=compact&theme=github_dark&hide_border=true"
+  />
 </p>
