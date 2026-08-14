@@ -38,8 +38,6 @@ Currently studying software architecture, backend development, and scalable syst
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img
     height="180em"
@@ -47,9 +45,3 @@ Currently studying software architecture, backend development, and scalable syst
   />
 </p>
 
-<p align="center">
-  <img
-    height="180em"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=luisfilippe650&layout=compact&theme=github_dark&hide_border=true"
-  />
-</p>
