@@ -40,7 +40,6 @@ Currently studying software architecture, backend development, and scalable syst
 
 <p align="center">
   <img
-    height="180em"
     src="https://github-stats-extended.vercel.app/api?username=luisfilippe650&show_icons=true&theme=github_dark&hide_border=true"
   />
 </p>
