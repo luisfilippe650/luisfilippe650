@@ -38,6 +38,6 @@ Currently studying software architecture, backend development, and scalable syst
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=luisfilippe650&theme=tokyonight&hide_border=true&locale=en" />
+    <img src="[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=luisfilippe650)](https://github.com/stats-organization/github-stats-extended)" />
   </a>
 </p>
