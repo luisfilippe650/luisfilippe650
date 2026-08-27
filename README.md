@@ -33,7 +33,7 @@ Currently studying software architecture, backend development, and scalable syst
 ## Technologies
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,typescript,java,nodejs,nestjs,react,mysql,postgresql,docker,linux,bash,git" /> 
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,typescript,java,nodejs,nestjs,react,mysql,postgresql,docker,consul,linux,bash,git" /> 
   
 </p>
 
