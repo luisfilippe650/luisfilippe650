@@ -1,6 +1,6 @@
 # Luis Filippe Reis Nogueira
 
-**Backend Developer | Python • TypeScript • Java**
+**Full-Stack Developer | Python • TypeScript • Java**
 
 <p align="center">
   <em>"Turning ideas into scalable and reliable systems."</em>
