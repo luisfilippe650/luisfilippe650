@@ -22,12 +22,15 @@
 
 ## 👋 About Me
 
-Computer Engineering student at **UNISAL** and **Software Development & Infrastructure Intern** at **INPE (COIDS)**.
+Backend Developer with **1 year of experience** in **REST API development, process automation, systems integration**, and IT infrastructure, using **TypeScript, NestJS, Python, FastAPI, Java, and Spring Boot**.
 
-I develop backend solutions focused on **REST APIs**, **systems integration**, **infrastructure automation**, and **datacenter management**.
+Hands-on experience developing solutions for data center environments, including APIs, mobile applications, CLI tools, and system integrations, with a focus on reducing manual tasks, improving operational efficiency, and enhancing infrastructure management.
 
-Currently studying software architecture, backend development, and scalable systems while building open-source projects.
+Knowledge of **MySQL, PostgreSQL, Docker, Linux, JWT, React Native, Git**, software architecture, Clean Code, SOLID principles, and the development of secure, scalable, and maintainable applications.
 
+Currently pursuing a **Bachelor’s Degree in Computer Engineering at UNISAL**.
+
+**Intermediate English (B1).**
 ---
 
 ## Technologies
