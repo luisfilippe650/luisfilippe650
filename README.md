@@ -30,7 +30,7 @@ Knowledge of **MySQL, PostgreSQL, Docker, Linux, JWT, React Native, Git**, softw
 
 Currently pursuing a **Bachelor’s Degree in Computer Engineering at UNISAL**.
 
-**Intermediate English (B1).**
+*Intermediate English (B1).*
 ---
 
 ## Technologies
