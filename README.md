@@ -36,7 +36,7 @@ Currently pursuing a **Bachelor’s Degree in Computer Engineering at UNISAL**.
 ## Technologies
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,typescript,java,nodejs,nestjs,react,mysql,postgresql,docker,consul,linux,bash,rabbitmq" /> 
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,typescript,java,nodejs,nestjs,react,mysql,postgresql,rabbitmq,docker,consul,linux,bash" /> 
   
 </p>
 
