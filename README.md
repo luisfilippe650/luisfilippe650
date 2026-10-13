@@ -26,7 +26,7 @@ Backend Developer with **1 year of experience** in **REST API development, proce
 
 Hands-on experience developing solutions for data center environments, including APIs, mobile applications, CLI tools, and system integrations, with a focus on reducing manual tasks, improving operational efficiency, and enhancing infrastructure management.
 
-Knowledge of **MySQL, PostgreSQL, RabbitMQ, Docker, Linux, JWT, React Native, Git**, software architecture, Clean Code, SOLID principles, and the development of secure, scalable, and maintainable applications.
+Knowledge of **MySQL, PostgreSQL, Redis, Docker, Linux, JWT, React Native, Git**, software architecture, Clean Code, SOLID principles, and the development of secure, scalable, and maintainable applications.
 
 Currently pursuing a **Bachelor’s Degree in Computer Engineering at UNISAL**.
 
@@ -36,7 +36,7 @@ Currently pursuing a **Bachelor’s Degree in Computer Engineering at UNISAL**.
 ## Technologies
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,typescript,java,nodejs,nestjs,react,mysql,postgresql,rabbitmq,docker,consul,linux,bash" /> 
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,typescript,java,nodejs,nestjs,react,mysql,postgresql,redis,docker,consul,linux,bash" /> 
   
 </p>
 
