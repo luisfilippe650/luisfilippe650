@@ -26,7 +26,7 @@ Backend Developer with **1 year of experience** in **REST API development, proce
 
 Hands-on experience developing solutions for data center environments, including APIs, mobile applications, CLI tools, and system integrations, with a focus on reducing manual tasks, improving operational efficiency, and enhancing infrastructure management.
 
-Knowledge of **MySQL, PostgreSQL, Docker, Linux, JWT, React Native, Git**, software architecture, Clean Code, SOLID principles, and the development of secure, scalable, and maintainable applications.
+Knowledge of **MySQL, PostgreSQL, RabbitMQ, Docker, Linux, JWT, React Native, Git**, software architecture, Clean Code, SOLID principles, and the development of secure, scalable, and maintainable applications.
 
 Currently pursuing a **Bachelor’s Degree in Computer Engineering at UNISAL**.
 
