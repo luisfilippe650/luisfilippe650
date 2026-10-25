@@ -37,15 +37,7 @@
 <img src="https://img.shields.io/badge/C-00599C?logo=c%2B%2B&logoColor=white" />
 
 
-
-
-
 ---
-
-<h3>Let’s connect</h3>
-
-- Email: <b>contato@luis.filippe650@gmail.com</b>  
-- LinkedIn: <b>[/in/luisfilippe650](linkedin.com/in/luis-filippe-reis-nogueira)</b>  
 
 <p align="center">
   <img
