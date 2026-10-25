@@ -1,54 +1,55 @@
-# Luis Filippe Reis Nogueira
+<h2> Hey! I'm Luis Filippe 👨🏻‍💻</h2>
 
-**Full-Stack Developer | Python • TypeScript • Java**
 
-<p align="center">
-  <em>"Turning ideas into scalable and reliable systems."</em>
-</p>
+<h3>Welcome to my profile! A little bit about me:</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/luis-filippe-reis-nogueira-244111355/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://judge.beecrowd.com/pt/profile/1138732">
-    <img src="https://img.shields.io/badge/Beecrowd-5A2D82?style=for-the-badge"/>
-  </a>
-  <a href="https://leetcode.com/u/luisfilippe45/">
-    <img src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=FFE135"/>
-  </a>
-</p>
+- Full-stack Software Engineer
+- Current stack: <b>Python</b>, <b>Node.js</b>, <b>TypeScript</b>.
+- Strong background in <b>competitive programming</b> with <b>C</b>.
+- One Year experience in <b>Development, Fullstack</b>.
+- Lorena, Brazil 
 
 ---
 
-## 👋 About Me
+<h3>Tech stack</h3>
 
-Backend Developer with **1 year of experience** in **REST API development, process automation, systems integration**, and IT infrastructure, using **TypeScript, NestJS, Python, FastAPI, Java, and Spring Boot**.
+<b>Web</b><br/>
+<img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Nestjs-DD0031?logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-06B6D4?logo=django&logoColor=white" />
 
-Hands-on experience developing solutions for data center environments, including APIs, mobile applications, CLI tools, and system integrations, with a focus on reducing manual tasks, improving operational efficiency, and enhancing infrastructure management.
 
-Knowledge of **MySQL, PostgreSQL, Redis, Docker, Linux, JWT, React Native, Git**, software architecture, Clean Code, SOLID principles, and the development of secure, scalable, and maintainable applications.
 
-Currently pursuing a **Bachelor’s Degree in Computer Engineering at UNISAL**.
+<b>Backend</b><br/>
+<img src="https://img.shields.io/badge/docker-4285F4?logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Mysql-3ECF8E?logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-FF6600?logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Nginx-3ECF8E?logo=nginx&logoColor=white" />
 
-*Intermediate English (B1).*
+
+<b>Competitive Programming</b><br/>
+<img src="https://img.shields.io/badge/C-00599C?logo=c%2B%2B&logoColor=white" />
+
+
+
+
+
 ---
 
-## Technologies
+<h3>Let’s connect</h3>
 
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,typescript,java,nodejs,nestjs,react,mysql,postgresql,redis,docker,linux,bash,consul,nginx" /> 
-  
-</p>
-
----
+- Email: <b>contato@luis.filippe650@gmail.com</b>  
+- LinkedIn: <b>[/in/luisfilippe650](linkedin.com/in/luis-filippe-reis-nogueira)</b>  
 
 <p align="center">
   <img
     height="180em"
     src="https://github-stats-extended.vercel.app/api?username=luisfilippe650&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true"
   />
-  <img
-    height="180em"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=luisfilippe650&layout=compact&theme=github_dark&hide_border=true"
-  />
+ 
 </p>
