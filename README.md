@@ -1,4 +1,4 @@
-<h2> Hey! I'm Luis Filippe 👨🏻‍💻</h2>
+<h2> Hey! I'm Luis Filippe </h2>
 
 
 <h3>Welcome to my profile! A little bit about me:</h3>
